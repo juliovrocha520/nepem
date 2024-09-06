@@ -7,11 +7,6 @@ author: Tiago Olivoto
 date: '2022-01-22'
 lastmod: '2022-03-18'
 url_source: https://github.com/TiagoOlivoto/lattes
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/tolivoto
 categories:
   - metan
 tags:

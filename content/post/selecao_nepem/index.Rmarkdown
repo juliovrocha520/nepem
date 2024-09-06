@@ -7,10 +7,6 @@ author: Tiago Olivoto
 date: '2022-09-16'
 lastmod: '2023-03-16'
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/tolivoto
 categories:
   - Bioestatística
 tags:

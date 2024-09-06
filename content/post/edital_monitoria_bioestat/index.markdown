@@ -8,10 +8,6 @@ date: '2024-03-12'
 lastmod: '2024-03-18'
 # url_source: https://github.com/TiagoOlivoto/lattes
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/tolivoto
 categories:
   - Bioestatística
 tags:

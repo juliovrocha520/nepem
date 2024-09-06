@@ -32,9 +32,6 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/tiago-olivoto-49060531/
   
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/tolivoto  
 user_groups:
 - Estudantes de Graduação
 ---
