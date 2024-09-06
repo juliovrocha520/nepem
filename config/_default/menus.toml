@@ -1,0 +1,88 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]] #------------------------------
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+# Menu principal "Sobre"
+[[main]]
+  name = "Sobre"
+  weight = 1.5  # Ajuste o peso conforme necessário para definir a ordem no menu.
+
+# Submenu "O Grupo" dentro de "Sobre"
+[[main]]
+  parent = "Sobre"
+  name = "O Grupo"
+  url  = "/sobre/o-grupo"  # Aponte para o link correto da página.
+  weight = 1
+
+# Submenu "Missão" dentro de "Sobre"
+[[main]]
+  parent = "Sobre"
+  name = "Missão"
+  url  = "/sobre/missao"  # Aponte para o link correto da página.
+  weight = 2
+
+# Submenu "Visão" dentro de "Sobre"
+[[main]]
+  parent = "Sobre"
+  name = "Visão"
+  url  = "/sobre/visao"  # Aponte para o link correto da página.
+  weight = 3
+
+# A equipe
+[[main]]
+  name = "A equipe"
+  url = "#people"
+  weight = 2
+
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 5
+
+
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 7
+
+[[main]]
+  name = "Classes"
+  url = "classes"
+  weight = 8
+
+#------------------------------
+[[main]]
+    name = "Publications"
+    weight = 9
+
+[[main]]
+    parent = "Publications"
+    name = "Complete list"
+    url  = "publication/"
+    weight = 1
+
+[[main]]
+    parent = "Publications"
+    name = "Featured"
+    url  = "#featured"
+    weight = 2
+#------------------------------
+
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 11
+
+
