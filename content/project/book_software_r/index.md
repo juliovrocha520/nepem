@@ -11,8 +11,7 @@ links:
   url: https://github.com/TiagoOlivoto
 summary: Software R para avaliação de dados experimentais - Um foco em experimentos agronômicos
 tags:
-- Books
-- R software
+- Livros
 - Agronomy
 - Plant breeding
 - Experimental statistics

@@ -3,14 +3,6 @@ authors:
 - admin
 bio: Somos um grupo de pesquisa da UFSC dedicado ao melhoramento genético de plantas, experimentação de campo, e fenotipagem digital de alto rendimento. Com foco na formação de recursos humanos qualificados, impulsionamos a agricultura sustentável através de tecnologia e ciência aplicada.
 email: "nepem.ufsc@gmail.com"
-interests:
-- High-throughput phenotyping
-- Plant Breeding
-- Agricultural Experimentation
-- Agricultural experiments
-- Reproducible research
-- R packages
-- Statistics
 name: NEPEM/UFSC
 organizations:
 - name: UFSC
@@ -40,3 +32,15 @@ superuser: true
 Bem-vindo ao site do **Núcleo de Estudos e Pesquisas em Experimentação e Melhoramento Vegetal** -- NEPEM. O NEPEM é um Núcleo vinculado ao [Departamento de Fitotecnia](https://fit.ufsc.br/) do [Centro de Ciências Agrárias](https://cca.ufsc.br/) da [Universidade Federal de Santa Catarina](https://ufsc.br/), *campus* Florianópolis.
 
 Nosso núcleo é dedicado ao melhoramento genético e à experimentação de campo de linhaça na costa sul do Brasil. Também nos destacamos no desenvolvimento de aplicativos e modelos de fenotipagem digital de alto rendimento, utilizando Inteligência Artificial, Sensoriamento Proximal e Remoto.
+
+<div style="display: flex; gap: 10px; margin-top: 20px;">
+  <a href="#link1" style="background-color: #28a745; color: white; padding: 20px 80px; text-decoration: none; border-radius: 40px; display: inline-block; font-size: 16px; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='#218838'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';" onmouseout="this.style.backgroundColor='#28a745'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';">
+    Button 1
+  </a>
+  <a href="#link2" style="background-color: #007bff; color: white; padding: 20px 80px; text-decoration: none; border-radius: 40px; display: inline-block; font-size: 16px; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='#0056b3'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';" onmouseout="this.style.backgroundColor='#007bff'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';">
+    Button 2
+  </a>
+  <a href="#link3" style="background-color: #ff851b; color: white; padding: 20px 80px; text-decoration: none; border-radius: 40px; display: inline-block; font-size: 16px; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='#e07b1a'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';" onmouseout="this.style.backgroundColor='#ff851b'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';">
+    Button 3
+  </a>
+</div>

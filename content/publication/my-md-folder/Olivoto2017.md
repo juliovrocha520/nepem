@@ -1,12 +1,12 @@
 +++
-title = "Reml/blup and sequential path analysis in estimating genotypic values and interrelationships among simple maize grain yield-related traits"
+title = "REML/BLUP and sequential path analysis in estimating genotypic values and interrelationships among simple maize grain yield-related traits"
 date = "2017-01-01"
 publication_types = ["2"]
-authors = ["**Olivoto T.**", "Nardino M.", "Carvalho I.", "Follmann D.", "Ferrari M.", "Szareski V.", "De Pelegrin A.", "De Souza V."]
-publication = "In: **Genetics and Molecular Research**, 16(1):gmr16019525, https://doi.org/10.4238/gmr16019525"
+authors = ["Olivoto T.", "Nardino M.", "Carvalho I.", "Follmann D.", "Ferrari M.", "Szareski V.", "de Pelegrin A.", "de Souza V."]
+publication = "In: **Genetics and Molecular Research**, 16(1):gmr16019525, [10.4238/gmr16019525](10.4238/gmr16019525)"
 abstract = ""
 abstract_short = ""
-tags = ["BLUP", "genotype-environment interaction", "maize", "path analysis"]
+tags = []
 image_preview = ""
 selected = false
 projects = []

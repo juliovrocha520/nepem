@@ -14,7 +14,7 @@ image:
   focal_point: 'center'
   preview_only: no
 tags:
-- R packages
+- Pacotes R
 - metan
 - data analysis
 - plant breeding

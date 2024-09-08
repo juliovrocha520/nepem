@@ -46,43 +46,47 @@
   weight = 3
 
 [[main]]
-  name = "Projects"
+  name = "Projetos"
   url = "#projects"
   weight = 5
 
 
 [[main]]
-  name = "Talks"
+  name = "Palestras"
   url = "#talks"
   weight = 7
 
 [[main]]
-  name = "Classes"
+  name = "Aulas"
   url = "classes"
   weight = 8
 
 #------------------------------
 [[main]]
-    name = "Publications"
+    name = "Publicações"
     weight = 9
 
 [[main]]
-    parent = "Publications"
-    name = "Complete list"
+    parent = "Publicações"
+    name = "Lista completa"
     url  = "publication/"
     weight = 1
 
 [[main]]
-    parent = "Publications"
-    name = "Featured"
+    parent = "Publicações"
+    name = "Destacadas"
     url  = "#featured"
     weight = 2
 #------------------------------
-
+[[main]]
+  name = "Junte-se a nós"
+  url = "joinus"
+  weight = 10
 
 [[main]]
-  name = "Contact"
+  name = "Contato"
   url = "#contact"
   weight = 11
+
 
 

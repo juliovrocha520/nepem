@@ -15,7 +15,7 @@ links:
   url: https://cran.r-project.org/web/packages/metan/
 summary: An R package for multi-environment trial analysis
 tags:
-- R packages
+- Pacotes R
 - metan
 - Genotype-Environment Interaction
 - Plant breeding

@@ -1,37 +1,32 @@
 ---
-role: Outro
-email: "tiago.olivoto@ufsc.br"
+role: Carlos Eduardo Forcelini Assoni 
+email: "caduforcelini@gmail.com"
 interests:
-- Plant Breeding
-- High-throughput Phenotyping
+- Plant Breeding  
+- High-throughput Phenotyping  
+- Digital Agriculture  
+- Industrial Hemp  
+- Phytotechnics
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
 social:
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/2432360896340086
-  
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Tiago_Olivoto2
-
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-0241-9636
-  
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=QjxIJkcAAAAJ&hl=pt-BR
-  
-- icon: github
-  icon_pack: fab
-  link: https://github.com/TiagoOlivoto
+  link:  https://lattes.cnpq.br/4322250654654174
   
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/tiago-olivoto-49060531/
+  link: www.linkedin.com/in/carlos-eduardo-forcelini-assoni-50b78a26a
   
+- icon: Instagram
+  icon_pack: fab
+  link:  https://www.instagram.com/kenji.roo?igsh=emdldGszaHNneGp4  
+
+- icon: researchgate
+  icon_pack: ai
+  link: https:https://www.researchgate.net/profile/Carlos-Eduardo-Forcelni-Assoni
+
 user_groups:
 - Estudantes de Graduação
 ---

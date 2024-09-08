@@ -16,7 +16,7 @@ links:
   url: https://cran.r-project.org/web/packages/pliman/
 summary: An R package for plant image analysis
 tags:
-- R packages
+- Pacotes R
 - pliman
 - Disease severity
 - Leaf area

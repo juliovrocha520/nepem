@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
-subtitle = "Active projects including R packages, books and indexes for analysis in plant breeding trials"
+title = "Projetos"
+subtitle = "Projetos desenvolvidos ou em desenvolvimento"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,24 +22,32 @@ subtitle = "Active projects including R packages, books and indexes for analysis
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Todos"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Research Projects"
+    name = "Projetos de pesquisa"
     tag = "Research"
+
+  [[content.filter_button]]
+    name = "Iniciação Científica"
+    tag = "Iniciação Científica"
+
+  [[content.filter_button]]
+    name = "Iniciação Tecnológica"
+    tag = "Iniciação Tecnológica"
     
   [[content.filter_button]]
-    name = "R packages"
-    tag = "R packages"
+    name = "Pacotes R"
+    tag = "Pacotes R"
   
   [[content.filter_button]]
-    name = "Shiny Apps"
-    tag = "Shiny"
+    name = "Aplicativos"
+    tag = "Aplicativos"
     
   [[content.filter_button]]
-    name = "Books"
-    tag = "Books"
+    name = "Livros"
+    tag = "Livros"
     
 
   [[content.filter_button]]

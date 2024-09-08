@@ -1,37 +1,24 @@
 ---
-role: Outro
-email: "tiago.olivoto@ufsc.br"
+role: Paulo Romero Oliveira Sousa
+email: "pauloromero@outlook.com"
 interests:
 - Plant Breeding
+- Statistical Analysis
+- R programmer
 - High-throughput Phenotyping
+
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
 social:
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/2432360896340086
-  
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Tiago_Olivoto2
-
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-0241-9636
-  
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=QjxIJkcAAAAJ&hl=pt-BR
-  
-- icon: github
-  icon_pack: fab
-  link: https://github.com/TiagoOlivoto
+  link: http://lattes.cnpq.br/1559810465472582
   
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/tiago-olivoto-49060531/
-  
+  link: https://www.linkedin.com/in/paulo-romeroo/
+ 
 user_groups:
 - Estudantes de Graduação
 ---
