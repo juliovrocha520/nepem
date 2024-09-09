@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: Somos um grupo de pesquisa da UFSC dedicado ao melhoramento genético de plantas, experimentação de campo, e fenotipagem digital de alto rendimento. Com foco na formação de recursos humanos qualificados, impulsionamos a agricultura sustentável através de tecnologia e ciência aplicada.
-email: "nepem.ufsc@gmail.com"
+email: "contato@nepemufsc.com"
 name: NEPEM/UFSC
 organizations:
 - name: UFSC
