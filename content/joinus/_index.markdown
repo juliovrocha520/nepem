@@ -7,6 +7,12 @@ author: Tiago Olivoto
 date: '2024-09-08'
 lastmod: '2024-09-08'
 links:
+images:
+  - /img/eSolia-Post-Slider1.png
+  - /img/eSolia-Post-Slider2.png
+resources:
+  - src: eSolia-Post-Slider1.png
+    title: Earthquake-proof rack install
 categories:
   - Seleção
 tags:

@@ -195,7 +195,7 @@ O pacote [`metan`](https://tiagoolivoto.github.io/metan/) (**m** ulti-**e**nviro
 Instale a versão lançada do metan do [CRAN](https://CRAN.R-project.org/package=metan) com:
 
 
-```r
+``` r
 install.packages ("metan")
 
 ```
@@ -203,7 +203,7 @@ install.packages ("metan")
 Ou instale a versão de desenvolvimento do [GitHub](https://github.com/TiagoOlivoto/metan) com:
 
 
-```r
+``` r
 devtools::install_github ("TiagoOlivoto/metan")
 
 # Para instalar a vinheta HTML, use
@@ -228,7 +228,7 @@ Para citar o metan em publicações, utilize o artigo abaixo
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://raw.githubusercontent.com/TiagoOlivoto/tiagoolivoto/master/static/img/gemsr/paper_metan.jpg" alt="First slide">
+      <img class="d-block w-100" src="static/imgs/img1.png" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://raw.githubusercontent.com/TiagoOlivoto/tiagoolivoto/master/static/img/gemsr/paper_metan2.jpg" alt="Second slide">
@@ -249,25 +249,25 @@ Para citar o metan em publicações, utilize o artigo abaixo
 No R, uma entrada BibTex para citações em documentos \\(\LaTeX\\) pode ser obtida com
 
 
-```r
+``` r
 citation("metan")
-# 
 # Please, support this project by citing it in your publications!
 # 
-#   Olivoto, T., and Lúcio, A.D. (2020). metan: an R package for
-#   multi-environment trial analysis. Methods Ecol Evol. 11:783-789
-#   doi:10.1111/2041-210X.13384
+#   Olivoto T, Lúcio AD (2020). "metan: An R package for
+#   multi‐environment trial analysis." _Methods in Ecology and
+#   Evolution_, *11*(6), 783-789. doi:10.1111/2041-210X.13384
+#   <https://doi.org/10.1111/2041-210X.13384>.
 # 
 # A BibTeX entry for LaTeX users is
 # 
-#   @Article{Olivoto2020,
-#     author = {Tiago Olivoto and Alessandro Dal'Col L{'{u}}cio},
-#     title = {metan: an R package for multi-environment trial analysis},
+#   @Article{,
+#     title = {metan: An R package for multi‐environment trial analysis},
+#     author = {Tiago Olivoto and Alessandro Dal’Col Lúcio},
+#     year = {2020},
 #     journal = {Methods in Ecology and Evolution},
 #     volume = {11},
 #     number = {6},
 #     pages = {783-789},
-#     year = {2020},
 #     doi = {10.1111/2041-210X.13384},
 #   }
 ```
@@ -277,7 +277,7 @@ citation("metan")
 # <i class="fas fa-box-open"></i> Pacotes necessários
 
 
-```r
+``` r
 library(tidyverse)  # manipulação de dados
 library(metan)
 library(rio)        # importação/exportação de dados

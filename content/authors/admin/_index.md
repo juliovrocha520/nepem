@@ -8,7 +8,6 @@ organizations:
 - name: UFSC
   url: "https://ufsc.br/"
 role: NEPEM
-
 social:
 - icon: envelope
   icon_pack: fas
@@ -25,7 +24,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/company/nepem-n%C3%BAcleo-de-estudos-e-pesquisas-em-experimenta%C3%A7%C3%A3o-e-melhoramento-vegetal/?viewAsMember=true
-  
+
+
+    
 superuser: true
 ---
 
@@ -33,57 +34,125 @@ Bem-vindo ao site do **Núcleo de Estudos e Pesquisas em Experimentação e Melh
 
 Nosso núcleo é dedicado ao melhoramento genético e à experimentação de campo de linhaça na costa sul do Brasil. Também nos destacamos no desenvolvimento de aplicativos e modelos de fenotipagem digital de alto rendimento, utilizando Inteligência Artificial, Sensoriamento Proximal e Remoto.
 
-<!-- Include the CSS and JS files -->
-<link rel="stylesheet" href="css/styles.css">
-<script src="js/scripts.js" defer></script>
+<!-- Include CSS and JS in your Hugo template (e.g., baseof.html) -->
+<link rel="stylesheet" href="/css/styles_carousel.css">
+<script src="/js/scripts.js"></script>
 
-<!-- HTML Carousel Code -->
-<div class="carousel">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img src="images/img1.png" alt="Image 1">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img2.png" alt="Image 2">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img3.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img4.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img5.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img6.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img7.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img8.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img9.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img10.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img11.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img12.png" alt="Image 3">
-        </div>
-        <div class="carousel-item">
-            <img src="images/img13.png" alt="Image 3">
-        </div>
-    </div>
-    <button class="carousel-control prev" onclick="prevSlide()">❮</button>
-    <button class="carousel-control next" onclick="nextSlide()">❯</button>
+
+<div class="carousel" duration="3000">
+  <ul tabindex="0">
+    <!-- Loop through images from img1.png to img17.png -->
+    <li id="c1_slide0">
+      <img src="/img/img01.png" alt="Image 1" />
+    </li>
+    <li id="c1_slide1">
+      <img src="/img/img1.png" alt="Image 1" />
+    </li>
+    <li id="c1_slide2">
+      <img src="/img/img2.png" alt="Image 2" />
+    </li>
+    <li id="c1_slide3">
+      <img src="/img/img3.png" alt="Image 3" />
+    </li>
+    <li id="c1_slide4">
+      <img src="/img/img4.png" alt="Image 4" />
+    </li>
+    <li id="c1_slide5">
+      <img src="/img/img5.png" alt="Image 5" />
+    </li>
+    <li id="c1_slide6">
+      <img src="/img/img6.png" alt="Image 6" />
+    </li>
+    <li id="c1_slide7">
+      <img src="/img/img7.png" alt="Image 7" />
+    </li>
+    <li id="c1_slide8">
+      <img src="/img/img8.png" alt="Image 8" />
+    </li>
+    <li id="c1_slide9">
+      <img src="/img/img9.png" alt="Image 9" />
+    </li>
+    <li id="c1_slide10">
+      <img src="/img/img10.png" alt="Image 10" />
+    </li>
+    <li id="c1_slide11">
+      <img src="/img/img11.png" alt="Image 11" />
+    </li>
+    <li id="c1_slide12">
+      <img src="/img/img12.png" alt="Image 12" />
+    </li>
+    <li id="c1_slide13">
+      <img src="/img/img13.png" alt="Image 13" />
+    </li>
+    <li id="c1_slide14">
+      <img src="/img/img14.png" alt="Image 14" />
+    </li>
+    <li id="c1_slide15">
+      <img src="/img/img15.png" alt="Image 15" />
+    </li>
+    <li id="c1_slide16">
+      <img src="/img/img16.png" alt="Image 16" />
+    </li>
+    <li id="c1_slide17">
+      <img src="/img/img17.png" alt="Image 17" />
+    </li>
+    <li id="c1_slide18">
+      <img src="/img/img18.png" alt="Image 18" />
+    </li>
+    <li id="c1_slide19">
+      <img src="/img/img19.png" alt="Image 19" />
+    </li>
+    <li id="c1_slide20">
+      <img src="/img/img24.png" alt="Image 20" />
+    </li>
+    <li id="c1_slide21">
+      <img src="/img/img21.png" alt="Image 21" />
+    </li>
+    <li id="c1_slide22">
+      <img src="/img/img22.png" alt="Image 22" />
+    </li>
+    <li id="c1_slide23">
+      <img src="/img/img23.png" alt="Image 23" />
+    </li>
+    <li id="c1_slide24">
+      <img src="/img/img24.png" alt="Image 24" />
+    </li>
+    <li id="c1_slide25">
+      <img src="/img/img25.png" alt="Image 25" />
+    </li>
+  </ul>
+  <ol>
+    <!-- Navigation bullets for each slide -->
+    <li><a href="#c1_slide0"></a></li>
+    <li><a href="#c1_slide1"></a></li>
+    <li><a href="#c1_slide2"></a></li>
+    <li><a href="#c1_slide3"></a></li>
+    <li><a href="#c1_slide4"></a></li>
+    <li><a href="#c1_slide5"></a></li>
+    <li><a href="#c1_slide6"></a></li>
+    <li><a href="#c1_slide7"></a></li>
+    <li><a href="#c1_slide8"></a></li>
+    <li><a href="#c1_slide9"></a></li>
+    <li><a href="#c1_slide10"></a></li>
+    <li><a href="#c1_slide11"></a></li>
+    <li><a href="#c1_slide12"></a></li>
+    <li><a href="#c1_slide13"></a></li>
+    <li><a href="#c1_slide14"></a></li>
+    <li><a href="#c1_slide15"></a></li>
+    <li><a href="#c1_slide16"></a></li>
+    <li><a href="#c1_slide17"></a></li>
+    <li><a href="#c1_slide18"></a></li>
+    <li><a href="#c1_slide19"></a></li>
+    <li><a href="#c1_slide20"></a></li>
+    <li><a href="#c1_slide21"></a></li>
+    <li><a href="#c1_slide22"></a></li>
+    <li><a href="#c1_slide23"></a></li>
+    <li><a href="#c1_slide24"></a></li>
+    <li><a href="#c1_slide25"></a></li>
+  </ol>
+  <div class="prev">&lsaquo;</div>
+  <div class="next">&rsaquo;</div>
 </div>
-
 
 
 
