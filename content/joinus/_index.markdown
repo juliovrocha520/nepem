@@ -39,7 +39,7 @@ editor_options:
 Se você é aluno ativo da UFSC e gostaria de aperfeiçoar suas
 competências e habilidades na área de Melhoramento Genético e
 Experimentação Agrícola, a oportunidade chegou!! O NEPEM está com
-processo seletivo aberto para de ingresso como membro efetivo!
+processo seletivo aberto para ingresso e reingresso como membro efetivo!
 
 **Algumas vantagens oferecidas aos integrantes do NEPEM**
 
