@@ -220,31 +220,6 @@ Para citar o metan em publicações, utilize o artigo abaixo
 >Olivoto, T., & Lúcio, A. D. (2020). metan: An R package for multi‐environment trial analysis. *Methods in Ecology and Evolution*, 11(6), 783–789. <a href="https://doi.org/10.1111/2041-210X.13384" target="_blank" rel="noopener">https://doi.org/10.1111/2041-210X.13384</a>  
 
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="static/imgs/img1.png" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="https://raw.githubusercontent.com/TiagoOlivoto/tiagoolivoto/master/static/img/gemsr/paper_metan2.jpg" alt="Second slide">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-
 
 No R, uma entrada BibTex para citações em documentos \\(\LaTeX\\) pode ser obtida com
 
