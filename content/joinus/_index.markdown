@@ -28,6 +28,7 @@ editor_options:
 <script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
 
 
+# Olá
 
 Se você é aluno ativo da UFSC e gostaria de aperfeiçoar suas
 competências e habilidades na área de Melhoramento Genético e
@@ -63,13 +64,20 @@ processo seletivo aberto para de ingresso como membro efetivo!
 | Entrevistas (caso o quantitativo de vagas seja excedido)                                                                                                                              | 23 e 24/09/2024    |
 | Divulgação dos resultados                                                                                                                | 26/09/2024         |
 
-<br> <br>
+<br>
+
+# <i class="fas fa-file-pdf"></i> Informações.
+Maiores informações podem ser obtidas no [edital de seleção](edital_2024_assinado.pdf). Caso tenha alguma dúvida, não hesite em enviar um email para contato@nepemufsc.com
+
+<br>
 
 # <i class="fas fa-file-export"></i> Inscrição
 
+
+
 A inscrição deve ser realizada pelo [formulário online de
-inscrição](https://forms.gle/5aH5eMka2ERbUzUP9), até as 23:59 do dia 24
-de setembro de 2023.
+inscrição](https://forms.gle/5aH5eMka2ERbUzUP9), até as 23:59 do dia 20
+de setembro de 2024.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScSpkEE0pFLgyo8Tvoj_h3y-p3cjBIkxYfnrp6H08wZJxfyMQ/viewform?embedded=true" width="720" height="1300" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 

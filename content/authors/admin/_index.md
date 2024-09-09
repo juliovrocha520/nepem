@@ -33,6 +33,61 @@ Bem-vindo ao site do **Núcleo de Estudos e Pesquisas em Experimentação e Melh
 
 Nosso núcleo é dedicado ao melhoramento genético e à experimentação de campo de linhaça na costa sul do Brasil. Também nos destacamos no desenvolvimento de aplicativos e modelos de fenotipagem digital de alto rendimento, utilizando Inteligência Artificial, Sensoriamento Proximal e Remoto.
 
+<!-- Include the CSS and JS files -->
+<link rel="stylesheet" href="css/styles.css">
+<script src="js/scripts.js" defer></script>
+
+<!-- HTML Carousel Code -->
+<div class="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="images/img1.png" alt="Image 1">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img2.png" alt="Image 2">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img3.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img4.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img5.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img6.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img7.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img8.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img9.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img10.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img11.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img12.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="images/img13.png" alt="Image 3">
+        </div>
+    </div>
+    <button class="carousel-control prev" onclick="prevSlide()">❮</button>
+    <button class="carousel-control next" onclick="nextSlide()">❯</button>
+</div>
+
+
+
+
+<!-- 
 <div style="display: flex; gap: 10px; margin-top: 20px;">
   <a href="#link1" style="background-color: #28a745; color: white; padding: 20px 80px; text-decoration: none; border-radius: 40px; display: inline-block; font-size: 16px; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='#218838'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';" onmouseout="this.style.backgroundColor='#28a745'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';">
     Button 1
@@ -44,3 +99,4 @@ Nosso núcleo é dedicado ao melhoramento genético e à experimentação de cam
     Button 3
   </a>
 </div>
+-->
