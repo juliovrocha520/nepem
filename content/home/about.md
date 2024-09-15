@@ -11,10 +11,4 @@ title = "**Bem-vindo!**"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
-[design.background]
-  # Background image.
-  image = "home.jpeg"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  
-  text_color_light = false
 +++
