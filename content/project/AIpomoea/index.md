@@ -9,12 +9,9 @@ links:
   icon_pack: fab
   name: Follow on Github
   url: https://github.com/NEPEM-UFSC/AIpomoea
-# - icon: r-project
-#   icon_pack: fab
-#   name: Follow on CRAN
-#   url: https://cran.r-project.org/web/packages/metan/
 summary: Produto do projeto de Iniciação Tecnológica de Matheus Lopes Machado
 tags:
+- Iniciação Tecnológica
 - Python
 - Aplicativos
 - Fenotipagem de alto rendimento
@@ -23,7 +20,7 @@ title: AIpomoea
 url_code: "https://github.com/NEPEM-UFSC/AIpomoea"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://repositorio.ufsc.br/handle/123456789/259095"
 ---
 
 * Tecnologia em Fenotipagem e Classificação

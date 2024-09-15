@@ -38,6 +38,7 @@ Bem-vindo ao site do **Núcleo de Estudos e Pesquisas em Experimentação e Melh
 
 Nosso núcleo é dedicado ao melhoramento genético e à experimentação de campo de linhaça na costa sul do Brasil. Também nos destacamos no desenvolvimento de aplicativos e modelos de fenotipagem digital de alto rendimento, utilizando Inteligência Artificial, Sensoriamento Proximal e Remoto. O diretório do grupo no CNPq pode ser acessado [aqui](https://dgp.cnpq.br/dgp/espelhogrupo/771423).
 
+
 <!-- Include CSS and JS in your Hugo template (e.g., baseof.html) -->
 <link rel="stylesheet" href="/css/styles_carousel.css">
 <script src="/js/scripts.js"></script>
