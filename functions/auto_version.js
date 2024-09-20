@@ -19,6 +19,7 @@ function validateGithubWebhook(eventBody, signature, secret) {
   
   exports.handler = async (event) => {
     try {
+        const headers = event.headers;
         // Verificar se o metodo da requisicao e POST
         if (event.httpMethod !== 'POST') {
             return {
@@ -58,17 +59,17 @@ function validateGithubWebhook(eventBody, signature, secret) {
         };
       }
   
-      if (body.action == 'ping') {
+      if (headers['X-GitHub-Event'] === 'ping') {
         return {
           statusCode: 200,
           body: JSON.stringify({ message: 'NEPEMVERSE: Pong!' })
         };
       }
-      // Verificar se e um evento de release
-      if (!body || body.action !== 'released' || !body.release || !body.repository) {
+      // Verificar se o evento não é de release ou prerelease
+      if (!body || (body.action !== 'released' && body.action !== 'prereleased') || !body.release || !body.repository) {
         return {
           statusCode: 400,
-          body: JSON.stringify({ error: 'Payload invalido. Nao e um evento de release.' })
+          body: JSON.stringify({ error: 'Payload inválido. Não é um evento de release ou prerelease válido' })
         };
       }
   
@@ -89,7 +90,6 @@ function validateGithubWebhook(eventBody, signature, secret) {
         timestamp: new Date().toISOString()
       });
   
-      // Retornar sucesso
       return {
         statusCode: 200,
         body: JSON.stringify({ message: `Versao ${version} do projeto ${repoName} foi armazenada com sucesso.` })
