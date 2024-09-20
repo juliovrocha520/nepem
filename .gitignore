@@ -10,3 +10,4 @@ write_md.R
 /resources/
 .netlify
 .env
+node_modules/
