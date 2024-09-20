@@ -65,11 +65,11 @@ function validateGithubWebhook(eventBody, signature, secret) {
           body: JSON.stringify({ message: 'NEPEMVERSE: Pong!' })
         };
       }
-      // Verificar se e um evento de release
-      if (!body || body.action !== 'released' || !body.release || !body.repository || body.release.prerelease ) {
+      // Verificar se o evento não é de release ou prerelease
+      if (!body || (body.action !== 'released' && body.action !== 'prereleased') || !body.release || !body.repository) {
         return {
           statusCode: 400,
-          body: JSON.stringify({ error: 'Payload invalido. Nao e um evento de release válido' })
+          body: JSON.stringify({ error: 'Payload inválido. Não é um evento de release ou prerelease válido' })
         };
       }
   
