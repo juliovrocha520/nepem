@@ -8,3 +8,6 @@ Thumbs.db
 write_md.R
 .DS_Store
 /resources/
+.netlify
+.env
+node_modules/
