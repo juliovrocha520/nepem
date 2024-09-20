@@ -2,6 +2,9 @@
 publish = "public"
 command = "hugo"
 
+[functions]
+  directory = "functions"
+
 [context.production.environment]
 HUGO_VERSION = "0.74.2"
 HUGO_ENV = "production"
