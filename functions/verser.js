@@ -8,7 +8,7 @@ if (!admin.apps.length) {
   /**
    * Converte a chave de API do Firebase, armazenada na variável de ambiente `FIREBASE_API_KEY`,
    * para um objeto JSON e a atribui à constante `serviceAccount`.
-   * 
+   *
    * A chave de API deve estar no formato JSON.
    *
    * @constant {Object} serviceAccount - A chave de API do Firebase convertida.
@@ -33,7 +33,7 @@ const db = admin.firestore();
 
 /**
  * Função handler para lidar com a requisição HTTP (eventos Lambda ou serverless).
- * 
+ *
  * @param {Object} event - O objeto do evento, que contém informações sobre a requisição.
  * @param {Object} context - O contexto de execução.
  * @returns {Object} - O objeto de resposta HTTP com statusCode e body.
@@ -60,6 +60,9 @@ exports.handler = async (event, context) => {
         console.warn("Missing project parameter.");
         return {
             statusCode: 400,
+            headers: {
+              "Access-Control-Allow-Origin": "*", // Liberando CORS
+            },
             body: JSON.stringify({ error: 'Project parameter is required' }),
         };
     }
@@ -80,6 +83,9 @@ exports.handler = async (event, context) => {
     if (!doc.exists) {
       return {
         statusCode: 404,
+        headers: {
+          "Access-Control-Allow-Origin": "*", // Liberando CORS
+        },
         body: JSON.stringify({ error: 'Project not found' }),
       };
     }
@@ -91,15 +97,16 @@ exports.handler = async (event, context) => {
     if (isStamp) {
       return {
         statusCode: 200,
+        headers: {
+          "Access-Control-Allow-Origin": "*", // Liberando CORS
+          'Content-Type': 'application/json'
+        },
         body: JSON.stringify({
           schemaVersion: 1,
           label: 'Project Version',
           message: data.latest_version,
           color: 'orange',
-        }),
-        headers: {
-          'Content-Type': 'application/json'
-        }
+        })
       };
     }
 
@@ -107,6 +114,9 @@ exports.handler = async (event, context) => {
     if (!data.latest_version) {
       return {
         statusCode: 404,
+        headers: {
+          "Access-Control-Allow-Origin": "*", // Liberando CORS
+        },
         body: JSON.stringify({ error: 'Version not found' }),
       };
     }
@@ -115,6 +125,9 @@ exports.handler = async (event, context) => {
     if (!data.timestamp) {
       return {
         statusCode: 404,
+        headers: {
+          "Access-Control-Allow-Origin": "*", // Liberando CORS
+        },
         body: JSON.stringify({ error: 'Release date not found' }),
       };
     }
@@ -125,6 +138,9 @@ exports.handler = async (event, context) => {
       console.log('Project:', project, 'Version:', data.latest_version, 'Timestamp:', data.timestamp);
       return {
       statusCode: 200,
+      headers: {
+        "Access-Control-Allow-Origin": "*", // Liberando CORS
+      },
       body: JSON.stringify({ latest_version: data.latest_version }),
       };
     }
@@ -133,7 +149,11 @@ exports.handler = async (event, context) => {
     console.error('Error retrieving project:', error);
     return {
       statusCode: 500,
+      headers: {
+        "Access-Control-Allow-Origin": "*", // Liberando CORS
+      },
       body: JSON.stringify({ error: 'Internal server error' }),
     };
   }
 };
+
