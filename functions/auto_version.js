@@ -58,6 +58,12 @@ function validateGithubWebhook(eventBody, signature, secret) {
         };
       }
   
+      if (body.action == 'ping') {
+        return {
+          statusCode: 200,
+          body: JSON.stringify({ message: 'NEPEMVERSE: Pong!' })
+        };
+      }
       // Verificar se e um evento de release
       if (!body || body.action !== 'released' || !body.release || !body.repository) {
         return {
