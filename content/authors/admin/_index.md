@@ -50,6 +50,12 @@ Nosso núcleo é dedicado ao melhoramento genético e à experimentação de cam
     <li id="c1_slide0">
       <img src="/img/img01.png" alt="Image 1" />
     </li>
+    <li id="c1_slide27">
+      <img src="/img/img27.jpeg" alt="Image 25" />
+    </li>
+    <li id="c1_slide26">
+      <img src="/img/img26.jpeg" alt="Image 25" />
+    </li>
     <li id="c1_slide1">
       <img src="/img/img1.png" alt="Image 1" />
     </li>
@@ -125,6 +131,12 @@ Nosso núcleo é dedicado ao melhoramento genético e à experimentação de cam
     <li id="c1_slide25">
       <img src="/img/img25.png" alt="Image 25" />
     </li>
+    <li id="c1_slide28">
+      <img src="/img/img28.jpeg" alt="Image 25" />
+    </li>
+    <li id="c1_slide29">
+      <img src="/img/img29.jpeg" alt="Image 25" />
+    </li>
   </ul>
   <ol>
     <!-- Navigation bullets for each slide -->
@@ -154,6 +166,10 @@ Nosso núcleo é dedicado ao melhoramento genético e à experimentação de cam
     <li><a href="#c1_slide23"></a></li>
     <li><a href="#c1_slide24"></a></li>
     <li><a href="#c1_slide25"></a></li>
+    <li><a href="#c1_slide26"></a></li>
+    <li><a href="#c1_slide27"></a></li>
+    <li><a href="#c1_slide28"></a></li>
+    <li><a href="#c1_slide29"></a></li>
   </ol>
   <div class="prev">&lsaquo;</div>
   <div class="next">&rsaquo;</div>
