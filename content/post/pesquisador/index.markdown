@@ -1,0 +1,42 @@
+---
+toc: true
+title: Reconhecimento Científico NEPEM
+subtitle: ''
+summary: 'Reconhecimento do Prof. Tiago Olivoto como um dos cientistas mais influentes do mundo.'
+author: Tiago Olivoto
+date: '2024-09-23'
+lastmod: '2024-09-23'
+links:
+categories:
+  - Bioestatística
+tags:
+  - Reconhecimento
+  - Ciência
+  - UFSC
+  - NEPEM
+image:
+  placement: 2
+  caption: 'Image by Tiago Olivoto'
+  preview_only: no
+featured: no
+math: true
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+<script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
+
+
+
+É com enorme satisfação que anunciamos que o Coordenador do NEPEM, Prof. Tiago Olivoto, foi incluído na prestigiada lista dos cientistas mais influentes do mundo, elaborada pela Elsevier em parceria com a Universidade de Stanford!
+
+No ranking de 2023, o Prof. Olivoto foi classificado como o **12º pesquisador mais influente da UFSC**. A lista reconhece 30 pesquisadores da UFSC ao longo de suas carreiras e destaca 27 com impacto proeminente em 2023.
+
+Esse reconhecimento reforça o compromisso do NEPEM com a excelência em pesquisa no melhoramento vegetal e agricultura digital. Essa conquista é, antes de mais nada, o resultado do esforço colaborativo e da dedicação de todos os envolvidos em nossos projetos.
+
+Seguimos com determinação na nossa missão de impulsionar o avanço científico e promover o desenvolvimento sustentável da agricultura em níveis regional, nacional e global. 🚜🌿
+
+Parabenizamos também todos os outros pesquisadores da UFSC que figuram nessa importante lista, consolidando ainda mais a posição da nossa universidade como uma das instituições mais influentes do Brasil e do mundo!
+
+#Ciência #Inovação #Fitotecnia #MelhoramentoVegetal #NEPEM #UFSC #PesquisaCientífica
