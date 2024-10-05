@@ -1,12 +1,12 @@
 .banner {
     background: linear-gradient(90deg, #A3C644, #2CAA8E);
-    padding: 20px;
+    padding: 10px;
     color: black;
     text-align: center;
     font-family: Arial, sans-serif;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    margin: 20px auto;
+    margin: 10px auto;
     max-width: 800px;
 }
 
@@ -55,7 +55,7 @@
 /* Selo no canto inferior direito */
 .seal {
     position: absolute;
-    top: -50px;
+    top: 20px;
     right: -50px;
     width: 150px;
     height: 150px;
