@@ -34,9 +34,40 @@ social:
 superuser: true
 ---
 
-Bem-vindo ao site do **Núcleo de Estudos e Pesquisas em Experimentação e Melhoramento Vegetal** -- NEPEM. O NEPEM é um Núcleo vinculado ao [Departamento de Fitotecnia](https://fit.ufsc.br/) do [Centro de Ciências Agrárias](https://cca.ufsc.br/) da [Universidade Federal de Santa Catarina](https://ufsc.br/), *campus* Florianópolis.
+<link rel="stylesheet" href="/css/styles_banner.css">
 
-Nosso núcleo é dedicado ao melhoramento genético e à experimentação de campo de linhaça na costa sul do Brasil. Também nos destacamos no desenvolvimento de aplicativos e modelos de fenotipagem digital de alto rendimento, utilizando Inteligência Artificial, Sensoriamento Proximal e Remoto. O diretório do grupo no CNPq pode ser acessado [aqui](https://dgp.cnpq.br/dgp/espelhogrupo/771423).
+<div class="banner">
+    <div class="banner-content">
+        <h2>Edital PPG/RGV está aberto!</h2>
+        <p>O <strong>Programa de Pós-Graduação em Recursos Genéticos Vegetais</strong> está com as inscrições abertas <em>até 04 de dezembro de 2024</em> para admissão de novos alunos para os cursos de Mestrado e Doutorado, com ingresso no primeiro semestre de 2025.</p>
+        <p>Se você deseja se especializar na área de <strong>Melhoramento Genético e Agricultura Digital</strong>, informamos que há vagas para <strong>Mestrado</strong> sob orientação do Prof. Tiago Olivoto.</p>
+        <h3>Junte-se à família NEPEM!</h3>
+        <a href="https://rgv.ufsc.br/processos-seletivos/3608-2/" class="cta-button" target="_blank">Acesse o Edital</a>
+    </div>
+    <div class="seal">
+        <div class="seal-content">
+            <span>Conceito 6</span>
+            <p>CAPES</p>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+
+
+Bem-vindo ao site do **Núcleo de Estudos e Pesquisas em Experimentação e
+Melhoramento Vegetal** -- NEPEM. O NEPEM é um Núcleo vinculado ao [Departamento
+de Fitotecnia](https://fit.ufsc.br/) do [Centro de Ciências
+Agrárias](https://cca.ufsc.br/) da [Universidade Federal de Santa
+Catarina](https://ufsc.br/), *campus* Florianópolis.
+
+Nosso núcleo é dedicado ao melhoramento genético e à experimentação de campo de
+linhaça na costa sul do Brasil. Também nos destacamos no desenvolvimento de
+aplicativos e modelos de fenotipagem digital de alto rendimento, utilizando
+Inteligência Artificial, Sensoriamento Proximal e Remoto. O diretório do grupo
+no CNPq pode ser acessado [aqui](https://dgp.cnpq.br/dgp/espelhogrupo/771423).
 
 
 <!-- Include CSS and JS in your Hugo template (e.g., baseof.html) -->
