@@ -35,7 +35,7 @@ O DNA no logotipo utiliza um gradiente com as cores oficiais da UFSC, sendo o **
 Na As <span style="color:#A3C644;">dupla hélice</span> os encaixes representam os pareamentos entre as bases nitrogenadas.
 A parte superior da hélice possui <span style="color:#A3C644;">bases desconectadas</span> que remetem ao processo de desenovelamento do DNA, 
 que ocorre no início da transcrição. As <span style="color:#A3C644;">folhas</span> representam a fotossíntese,
-processo vital para as plantas, também simbolizando transformação e crescimento no grupo. As <span style="color:#A3C644;">raiízes</span> simbolizam a sustentação das plantas no solo, absorvendo água e nutrientes,
+processo vital para as plantas, também simbolizando transformação e crescimento no grupo. As <span style="color:#A3C644;">raízes</span> simbolizam a sustentação das plantas no solo, absorvendo água e nutrientes,
 e remetem à origem e apoio entre os integrantes do grupo. O uso da letra grega <span style="color:#A3C644;">épsilon</span> remete ao termo de erro em modelos estatísticos,
 que no contexto do grupo faz referência à experimentação, uma área central de atuação do NEPEM.
 
