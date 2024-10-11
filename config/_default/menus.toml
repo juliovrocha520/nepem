@@ -20,19 +20,24 @@
   url  = "/sobre/o-grupo"  # Aponte para o link correto da página.
   weight = 1
 
-# Submenu "Missão" dentro de "Sobre"
 [[main]]
   parent = "Sobre"
   name = "Missão"
   url  = "/sobre/missao"  # Aponte para o link correto da página.
   weight = 2
 
-# Submenu "Visão" dentro de "Sobre"
 [[main]]
   parent = "Sobre"
   name = "Visão"
   url  = "/sobre/visao"  # Aponte para o link correto da página.
   weight = 3
+
+[[main]]
+  parent = "Sobre"
+  name = "Identidade Visual"
+  url  = "/sobre/visual"  # Aponte para o link correto da página.
+  weight = 4
+
 
 # A equipe
 [[main]]
