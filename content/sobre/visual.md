@@ -17,8 +17,8 @@ para o uso consistente da marca.
 ### Versão Principal
 A versão principal do logotipo deve ser utilizada sempre que possível. 
 Ela é composta por um símbolo que remete ao DNA e à planta, 
-juntamente com o nome do grupo. A coloração principal do logo contém um gradiente que vai do verde claro (#A3C644 <span style="background-color:#A3C644; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>) 
-ao verde escuro (#2CAA8E <span style="background-color:#2CAA8E; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>).
+juntamente com o nome do grupo. A coloração principal do logo contém um gradiente que vai do verde claro (#95C848 <span style="background-color:#95C848; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>) 
+ao verde escuro (#1AB281 <span style="background-color:#1AB281; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>).
 
 <img src="/img/logo/logo_main.png" alt="Logotipo" width="480" height="480">
 
@@ -32,11 +32,11 @@ O DNA no logotipo utiliza um gradiente com as cores oficiais da UFSC, sendo o **
 
 
 
-Na As <span style="color:#A3C644;">dupla hélice</span> os encaixes representam os pareamentos entre as bases nitrogenadas.
-A parte superior da hélice possui <span style="color:#A3C644;">bases desconectadas</span> que remetem ao processo de desenovelamento do DNA, 
-que ocorre no início da transcrição. As <span style="color:#A3C644;">folhas</span> representam a fotossíntese,
-processo vital para as plantas, também simbolizando transformação e crescimento no grupo. As <span style="color:#A3C644;">raízes</span> simbolizam a sustentação das plantas no solo, absorvendo água e nutrientes,
-e remetem à origem e apoio entre os integrantes do grupo. O uso da letra grega <span style="color:#A3C644;">épsilon</span> remete ao termo de erro em modelos estatísticos,
+Na As <span style="color:#95C848;">dupla hélice</span> os encaixes representam os pareamentos entre as bases nitrogenadas.
+A parte superior da hélice possui <span style="color:#95C848;">bases desconectadas</span> que remetem ao processo de desenovelamento do DNA, 
+que ocorre no início da transcrição. As <span style="color:#95C848;">folhas</span> representam a fotossíntese,
+processo vital para as plantas, também simbolizando transformação e crescimento no grupo. As <span style="color:#95C848;">raízes</span> simbolizam a sustentação das plantas no solo, absorvendo água e nutrientes,
+e remetem à origem e apoio entre os integrantes do grupo. O uso da letra grega <span style="color:#95C848;">épsilon</span> remete ao termo de erro em modelos estatísticos,
 que no contexto do grupo faz referência à experimentação, uma área central de atuação do NEPEM.
 
 
@@ -61,14 +61,52 @@ O ícone pode ser utilizado de forma independente, quando o espaço for limitado
 
 ## 4. Pre-visualização e download
 
-| Tipo de Logo                     | Formato | Clique para baixar |
-|----------------------------------|---------|--------------------------------|
-| Logotipo Colorido Principal    | .png    | <a href="/img/logo/logo_main.png" download><img src="/img/logo/logo_main.png" alt="Logotipo" width="200" height="200"></a> |
-| Logotipo Colorido Principal    | .svg    | <a href="/img/logo/logo_main.svg" download><img src="/img/logo/logo_main.png" alt="Logotipo" width="200" height="200"></a> |
-| Ícone                          | .png    | <a href="/img/logo/icone.png" download><img src="/img/logo/icone.png" alt="Ícone" width="200" height="200"></a> |
-| Ícone                          | .svg    | <a href="/img/logo/icone.svg" download><img src="/img/logo/icone.png" alt="Ícone" width="200" height="200"></a> |
-| Logotipo Branco (fundos escuros) | .png    | <a href="/img/logo/logo_white.png" download><img src="/img/logo/logo_white.png" alt="Logotipo Branco" width="200" height="200"></a> |
-| Logotipo Preto (fundos claros)   | .png    | <a href="/img/logo/logo_black.png" download><img src="/img/logo/logo_black.png" alt="Logotipo Preto" width="200" height="200"></a> |
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 10px 20px; /* Add padding for space */
+  }
+</style>
+
+<table>
+  <colgroup>
+    <col style="width: 20%;">
+    <col style="width: 40%;">
+    <col style="width: 40%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Tipo de Logo</th>
+      <th>.png</th>
+      <th>.svg</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Logotipo Colorido Principal</td>
+      <td><a href="/img/logo/logo_main.png" download><img src="/img/logo/logo_main.png" alt="Logotipo" width="200" height="200"></a></td>
+      <td><a href="/img/logo/logo_main.svg" download><img src="/img/logo/logo_main.png" alt="Logotipo" width="200" height="200"></a></td>
+    </tr>
+    <tr>
+      <td>Ícone</td>
+      <td><a href="/img/logo/icone.png" download><img src="/img/logo/icone.png" alt="Ícone" width="200" height="200"></a></td>
+      <td><a href="/img/logo/icone.svg" download><img src="/img/logo/icone.png" alt="Ícone" width="200" height="200"></a></td>
+    </tr>
+    <tr>
+      <td>Logotipo Branco (fundos escuros)</td>
+      <td><a href="/img/logo/logo_white.png" download><img src="/img/logo/logo_white.png" alt="Logotipo Branco" width="200" height="200"></a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Logotipo Preto (fundos claros)</td>
+      <td><a href="/img/logo/logo_black.png" download><img src="/img/logo/logo_black.png" alt="Logotipo Preto" width="200" height="200"></a></td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## 5. Espaço de Proteção e Tamanhos Mínimos
@@ -80,9 +118,9 @@ Para garantir a legibilidade do logotipo, deve-se respeitar uma margem de segura
 ## 6. Paleta de cores
 As cores institucionais garantem a identificação da marca NEPEM. Utilize a seguinte paleta de cores, priorizando o uso dos tons de verde, branco e preto. As cores azul, vermelha e amarela devem ser utilizadas com cautela.
 
--- verde claro (#A3C644 <span style="background-color:#A3C644; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>).
+-- verde claro (#95C848 <span style="background-color:#95C848; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>).
 
--- verde escuro (#2CAA8E <span style="background-color:#2CAA8E; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>).
+-- verde escuro (#1AB281 <span style="background-color:#1AB281; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>).
 
 -- branco (#FFFFFF <span style="background-color:#FFFFFF; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>).
 
