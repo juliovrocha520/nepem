@@ -87,22 +87,22 @@ O ícone pode ser utilizado de forma independente, quando o espaço for limitado
   <tbody>
     <tr>
       <td>Logotipo Colorido Principal</td>
-      <td><a href="/img/logo/logo_main.png" download><img src="/img/logo/logo_main.png" alt="Logotipo" width="200" height="200"></a></td>
-      <td><a href="/img/logo/logo_main.svg" download><img src="/img/logo/logo_main.png" alt="Logotipo" width="200" height="200"></a></td>
+      <td><a href="/img/logo/logo_main.png" download><img src="/img/logo/lowres/logo_main.png" alt="Logotipo" width="200" height="200"></a></td>
+      <td><a href="/img/logo/logo_main.svg" download><img src="/img/logo/lowres/logo_main.png" alt="Logotipo" width="200" height="200"></a></td>
     </tr>
     <tr>
       <td>Ícone</td>
-      <td><a href="/img/logo/icone.png" download><img src="/img/logo/icone.png" alt="Ícone" width="200" height="200"></a></td>
-      <td><a href="/img/logo/icone.svg" download><img src="/img/logo/icone.png" alt="Ícone" width="200" height="200"></a></td>
+      <td><a href="/img/logo/icone.png" download><img src="/img/logo/lowres/icone.png" alt="Ícone" width="200" height="200"></a></td>
+      <td><a href="/img/logo/icone.svg" download><img src="/img/logo/lowres/icone.png" alt="Ícone" width="200" height="200"></a></td>
     </tr>
     <tr>
       <td>Logotipo Branco (fundos escuros)</td>
-      <td><a href="/img/logo/logo_white.png" download><img src="/img/logo/logo_white.png" alt="Logotipo Branco" width="200" height="200"></a></td>
+      <td><a href="/img/logo/logo_white.png" download><img src="/img/logo/lowres/logo_white.png" alt="Logotipo Branco" width="200" height="200"></a></td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Logotipo Preto (fundos claros)</td>
-      <td><a href="/img/logo/logo_black.png" download><img src="/img/logo/logo_black.png" alt="Logotipo Preto" width="200" height="200"></a></td>
+      <td><a href="/img/logo/logo_black.png" download><img src="/img/logo/lowres/logo_black.png" alt="Logotipo Preto" width="200" height="200"></a></td>
       <td>N/A</td>
     </tr>
   </tbody>
@@ -151,7 +151,7 @@ Para manter a integridade visual da marca, evite os seguintes usos incorretos:
 
 ## 9. Exemplos de uso
 
-<img src="/img/logo/exemplos.png" alt="Logotipo" width="1080" height="1080">
+<img src="/img/logo/lowres/exemplos.png" alt="Logotipo" width="1080" height="1080">
 
 
 ## 10. Aplicações Especiais
