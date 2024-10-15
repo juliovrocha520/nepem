@@ -20,7 +20,7 @@ Ela é composta por um símbolo que remete ao DNA e à planta,
 juntamente com o nome do grupo. A coloração principal do logo contém um gradiente que vai do verde claro (#95C848 <span style="background-color:#95C848; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>) 
 ao verde escuro (#1AB281 <span style="background-color:#1AB281; width:20px; height:20px; display:inline-block; margin-right:5px;"></span>).
 
-<img src="/img/logo/logo_main.png" alt="Logotipo" width="480" height="480">
+<img src="/img/logo/lowres/logo_main.png" alt="Logotipo" width="480" height="480">
 
 
 
@@ -98,11 +98,13 @@ O ícone pode ser utilizado de forma independente, quando o espaço for limitado
     <tr>
       <td>Logotipo Branco (fundos escuros)</td>
       <td><a href="/img/logo/logo_white.png" download><img src="/img/logo/lowres/logo_white.png" alt="Logotipo Branco" width="200" height="200"></a></td>
+      <td><a href="/img/logo/logo_white.svg" download><img src="/img/logo/lowres/logo_white.png" alt="Logotipo Branco" width="200" height="200"></a></td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Logotipo Preto (fundos claros)</td>
       <td><a href="/img/logo/logo_black.png" download><img src="/img/logo/lowres/logo_black.png" alt="Logotipo Preto" width="200" height="200"></a></td>
+      <td><a href="/img/logo/logo_black.svg" download><img src="/img/logo/lowres/logo_black.png" alt="Logotipo Preto" width="200" height="200"></a></td>
       <td>N/A</td>
     </tr>
   </tbody>
