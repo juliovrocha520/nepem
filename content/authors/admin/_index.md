@@ -111,17 +111,11 @@ no CNPq pode ser acessado [aqui](https://dgp.cnpq.br/dgp/espelhogrupo/771423).
     <li id="c1_slide8">
       <img src="/img/img8.png" alt="Image 8" />
     </li>
-    <li id="c1_slide9">
-      <img src="/img/img9.png" alt="Image 9" />
-    </li>
     <li id="c1_slide10">
       <img src="/img/img10.png" alt="Image 10" />
     </li>
     <li id="c1_slide11">
       <img src="/img/img11.png" alt="Image 11" />
-    </li>
-    <li id="c1_slide12">
-      <img src="/img/img12.png" alt="Image 12" />
     </li>
     <li id="c1_slide13">
       <img src="/img/img13.png" alt="Image 13" />
@@ -134,9 +128,6 @@ no CNPq pode ser acessado [aqui](https://dgp.cnpq.br/dgp/espelhogrupo/771423).
     </li>
     <li id="c1_slide16">
       <img src="/img/img16.png" alt="Image 16" />
-    </li>
-    <li id="c1_slide17">
-      <img src="/img/img17.png" alt="Image 17" />
     </li>
     <li id="c1_slide18">
       <img src="/img/img18.png" alt="Image 18" />
@@ -155,9 +146,6 @@ no CNPq pode ser acessado [aqui](https://dgp.cnpq.br/dgp/espelhogrupo/771423).
     </li>
     <li id="c1_slide23">
       <img src="/img/img23.png" alt="Image 23" />
-    </li>
-    <li id="c1_slide24">
-      <img src="/img/img24.png" alt="Image 24" />
     </li>
     <li id="c1_slide25">
       <img src="/img/img25.png" alt="Image 25" />
