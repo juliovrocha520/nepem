@@ -32,7 +32,7 @@ O DNA no logotipo utiliza um gradiente com as cores oficiais da UFSC, sendo o **
 
 
 
-Na As <span style="color:#95C848;">dupla hélice</span> os encaixes representam os pareamentos entre as bases nitrogenadas.
+Na <span style="color:#95C848;">dupla hélice</span> os encaixes representam os pareamentos entre as bases nitrogenadas.
 A parte superior da hélice possui <span style="color:#95C848;">bases desconectadas</span> que remetem ao processo de desenovelamento do DNA, 
 que ocorre no início da transcrição. As <span style="color:#95C848;">folhas</span> representam a fotossíntese,
 processo vital para as plantas, também simbolizando transformação e crescimento no grupo. As <span style="color:#95C848;">raízes</span> simbolizam a sustentação das plantas no solo, absorvendo água e nutrientes,
@@ -99,13 +99,11 @@ O ícone pode ser utilizado de forma independente, quando o espaço for limitado
       <td>Logotipo Branco (fundos escuros)</td>
       <td><a href="/img/logo/logo_white.png" download><img src="/img/logo/lowres/logo_white.png" alt="Logotipo Branco" width="200" height="200"></a></td>
       <td><a href="/img/logo/logo_white.svg" download><img src="/img/logo/lowres/logo_white.png" alt="Logotipo Branco" width="200" height="200"></a></td>
-      <td>N/A</td>
     </tr>
     <tr>
       <td>Logotipo Preto (fundos claros)</td>
       <td><a href="/img/logo/logo_black.png" download><img src="/img/logo/lowres/logo_black.png" alt="Logotipo Preto" width="200" height="200"></a></td>
       <td><a href="/img/logo/logo_black.svg" download><img src="/img/logo/lowres/logo_black.png" alt="Logotipo Preto" width="200" height="200"></a></td>
-      <td>N/A</td>
     </tr>
   </tbody>
 </table>
