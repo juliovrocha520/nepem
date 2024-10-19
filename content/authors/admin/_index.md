@@ -70,6 +70,7 @@ Inteligência Artificial, Sensoriamento Proximal e Remoto. O diretório do grupo
 no CNPq pode ser acessado [aqui](https://dgp.cnpq.br/dgp/espelhogrupo/771423).
 
 
+
 <!-- Include CSS and JS in your Hugo template (e.g., baseof.html) -->
 <link rel="stylesheet" href="/css/styles_carousel.css">
 <script src="/js/scripts.js"></script>
