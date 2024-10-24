@@ -38,6 +38,18 @@
   url  = "/sobre/visual"  # Aponte para o link correto da página.
   weight = 4
 
+[[main]]
+  parent = "Sobre"
+  name = "Estrutura organizacional"
+  url  = "/sobre/estrutura"  # Aponte para o link correto da página.
+  weight = 5
+
+[[main]]
+  parent = "Sobre"
+  name = "Regimento"
+  url  = "/sobre/regimento"  # Aponte para o link correto da página.
+  weight = 6
+
 
 # A equipe
 [[main]]

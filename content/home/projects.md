@@ -26,8 +26,8 @@ subtitle = "Projetos desenvolvidos ou em desenvolvimento"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Projetos de pesquisa"
-    tag = "Research"
+    name = "Pesquisa"
+    tag = "Pesquisa"
 
   [[content.filter_button]]
     name = "Iniciação Científica"

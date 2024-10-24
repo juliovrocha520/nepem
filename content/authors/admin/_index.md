@@ -8,6 +8,7 @@ organizations:
 - name: UFSC
   url: "https://ufsc.br/"
 role: NEPEM
+weight: 15
 social:
 - icon: envelope
   icon_pack: fas
