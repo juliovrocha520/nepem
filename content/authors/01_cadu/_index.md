@@ -30,7 +30,7 @@ social:
 
 - icon: researchgate
   icon_pack: ai
-  link: https:https://www.researchgate.net/profile/Carlos-Eduardo-Forcelni-Assoni
+  link: https://www.researchgate.net/profile/Carlos-Eduardo-Forcelni-Assoni
 
 user_groups:
 - Estudantes de Graduação
