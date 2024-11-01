@@ -1,6 +1,6 @@
 ---
 role:  Kamilly Vitoria Siqueira Tonet
-weight: 9
+weight: 10
 email: "kamillytonet@gmail.com"
 interests:
 - High-throughput Phenotyping

@@ -1,6 +1,6 @@
 ---
 role: Paulo Romero Oliveira Sousa
-weight: 16
+weight: 18
 email: "pauloromero@outlook.com"
 interests:
 - Plant Breeding

@@ -1,6 +1,6 @@
 ---
 role: Luciano dos Santos Cardoso Junior
-weight: 12
+weight: 13
 email: "lucianoufscagve@gmail.com"
 interests:
 - Remote Sensing

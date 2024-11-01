@@ -1,6 +1,6 @@
 ---
 role: Tiago Olivoto
-weight: 19
+weight: 21
 email: "tiago.olivoto@ufsc.br"
 interests:
 - Plant Breeding
