@@ -1,6 +1,6 @@
 ---
 role: Janayna Nazi Uliana
-weight: 8
+weight: 9
 email: "janaynauliana@gmail.com"
 interests:
 - Plant Breeding

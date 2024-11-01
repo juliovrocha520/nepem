@@ -1,6 +1,6 @@
 ---
 role: Rodrigo da Silva Gomes
-weight: 19
+weight: 20
 email: "rodrigosg09@icloud.com"
 interests:
 - Plant Breeding

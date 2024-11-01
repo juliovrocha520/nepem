@@ -1,6 +1,6 @@
 ---
 role: Holegário Califa Nosoline
-weight: 6
+weight: 7
 email: "holegarionosoline@gmail.com"
 interests:
 - Plant Breeding
