@@ -8,7 +8,7 @@ draft: false
 # Estrutura Oganizacional
 
 A estrutura organizacional do NEPEM é composta por uma Coordenadoria Geral, uma
-Coordenadoria Científica e Coordenadorias de Apoio, conforme representado no
+Coordenadoria Científica e Assessorias de Apoio, conforme representado no
 fluxograma.
 
 
@@ -34,8 +34,8 @@ tecnologias agrícolas.
 dados, e facilita a transferência de tecnologia para o mercado, oferecendo
 também serviços de consultoria tecnológica.
 
-As Coordenadorias de Apoio incluem uma **Coordenadoria de Comunicação** que Gerencia
+As Assessorias de Apoio incluem uma **Assessoria de Comunicação** que Gerencia
 a presença do NEPEM em plataformas digitais e organiza eventos científicos e
-educacionais e uma **Coordenadoria Comercial**, focada em parcerias comerciais,
+educacionais e uma **Assessoria Comercial**, focada em parcerias comerciais,
 sustentabilidade financeira e licenciamento de tecnologias desenvolvidas pelo
 grupo.
