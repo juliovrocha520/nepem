@@ -40,7 +40,7 @@ superuser: true
 <div class="banner">
     <div class="banner-content">
         <h2>Edital PPG/RGV aberto!</h2>
-        <p>O <strong>Programa de Pós-Graduação em Recursos Genéticos Vegetais</strong> está com as inscrições abertas <em>até 04 de dezembro de 2024</em> para admissão de novos alunos para os cursos de Mestrado e Doutorado, com ingresso no primeiro semestre de 2025.</p>
+        <p>O <strong>Programa de Pós-Graduação em Recursos Genéticos Vegetais</strong> está com as inscrições abertas <em>até ~~04 de dezembro de 2024~~ 29 de janeiro de 2025</em> para admissão de novos alunos para os cursos de Mestrado e Doutorado, com ingresso no primeiro semestre de 2025.</p>
         <p>Se você deseja se especializar na área de <strong>Melhoramento Genético e Agricultura Digital</strong>, informamos que há vagas para <strong>Mestrado</strong> sob orientação do Prof. Tiago Olivoto.</p>
         <h3>Junte-se à família NEPEM!</h3>
         <a href="https://rgv.ufsc.br/processos-seletivos/3608-2/" class="cta-button" target="_blank">Acesse o Edital</a>
