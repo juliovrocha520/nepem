@@ -35,6 +35,8 @@ social:
 superuser: true
 ---
 
+<!-- 
+
 <link rel="stylesheet" href="/css/styles_banner.css">
 
 <div class="banner">
@@ -55,6 +57,8 @@ superuser: true
 
 </div>
 
+
+ -->
 
 
 
