@@ -24,6 +24,7 @@ featured: no
 math: true
 ---
 
+
 <script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
 
 ```{r global_options, include = FALSE}
