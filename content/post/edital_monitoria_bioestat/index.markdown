@@ -36,7 +36,7 @@ O Professor Dr. Tiago Olivoto, matrícula SIAPE 1241962, considerando o disposto
 # <i class="fas fa-file-pdf"></i> Edital
 
 
-<a href="https://github.com/TiagoOlivoto/tiagoolivoto/raw/master/content/post/edital_monitoria_bioestat/edital_monitor_bioestatistica_2025_assinado.pdf" target="_blank" rel="noopener"><img src="https://github.com/TiagoOlivoto/tiagoolivoto/blob/master/content/post/edital_monitoria_bioestat/image_edital.png?raw=true" width="1000" height="273"/></a>
+<a href="https://github.com/TiagoOlivoto/tiagoolivoto/raw/master/content/post/edital_monitoria_bioestat/edital_monitor_bioestatistica_2025_assinado.pdf" target="_blank" rel="noopener"><img src="https://github.com/TiagoOlivoto/tiagoolivoto/blob/master/content/post/edital_monitoria_bioestat/image_criterios.png?raw=true" width="1000" height="273"/></a>
 
 
 <a class="btn btn-success" href="https://github.com/TiagoOlivoto/tiagoolivoto/raw/master/content/post/edital_monitoria_bioestat/edital_monitor_bioestatistica_2025_assinado.pdf" target="_blank"><i class="fa fa-save"></i> Download do edital</a>
