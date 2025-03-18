@@ -51,6 +51,20 @@ A inscrição deverá ser realizada de acordo com o estabelecido no [Edital Unif
 <br> 
 <br> 
 
+# <i class="fas fa-file-export"></i> Inscrições Homologadas
+<a class="btn btn-success" href="https://github.com/NEPEM-UFSC/nepem/raw/master/content/post/edital_monitoria_bioestat/homologacao_monitor_bioestatistica_2025_assinado" target="_blank"><i class="fa fa-save"></i> Download</a>
+
+
+| **Candidato**                   | **Modalidade**           |
+|-----------------------------|----------------------|
+| Daniel Schmechel Affeldt    | Classificação geral  |
+| Lalesca Dadam Gomes         | Classificação geral  |
+| Paulo Romero Oliveira Sousa | Ações afirmativas    |
+
+
+<br> 
+
+
 # <i class="fas fa-clock"></i> Cronograma
 
 | **ATIVIDADE**                                            | **PERÍODO**                          |
