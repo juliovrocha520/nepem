@@ -79,9 +79,8 @@ Maiores informações podem ser obtidas no [edital de seleção](edital_2025_ass
 
 
 A inscrição deve ser realizada pelo [formulário online de
-inscrição](https://forms.gle/5aH5eMka2ERbUzUP9), até as 23:59 do dia 11
+inscrição](https://forms.gle/MyMBcAjEWsm4ksxA6), até as 23:59 do dia 11
 de abril de 2025.
 
-<iframe src="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_QqUcj7sw98s4aLgJ04lDMxFiJ3vZlq3kfLRJK7xxYGrzoA/viewform?embedded=true" width="720" height="1300" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_QqUcj7sw98s4aLgJ04lDMxFiJ3vZlq3kfLRJK7xxYGrzoA/viewform?embedded=true" width="720" height="1300" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 
