@@ -62,11 +62,11 @@ processo seletivo aberto para ingresso e reingresso como membro efetivo!
 
 # <i class="fas fa-clock"></i> Fases do processo e cronograma
 
-| ATIVIDADE                                                                                                                                | PERÍODO            |
+| ATIVIDADE                                                               | PERÍODO            |
 |---------------------------------------------------|---------------------|
 | Inscrições ([https://forms.gle/MyMBcAjEWsm4ksxA6](https://forms.gle/MyMBcAjEWsm4ksxA6)) | 30/03 a 11/04/2025 |
-| Entrevistas (caso o quantitativo de vagas seja excedido)                                                                                                                              | 23 e 24/09/2024    |
-| Divulgação dos resultados                                                                                                                | 26/09/2024         |
+| Entrevistas (caso o quantitativo de vagas seja excedido)                | 14/04/2025 e 16/04/2025    |
+| Divulgação dos resultados                                              | 17/04/2025        |
 
 <br>
 
