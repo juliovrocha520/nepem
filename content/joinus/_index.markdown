@@ -82,5 +82,45 @@ A inscrição deve ser realizada pelo [formulário online de
 inscrição](https://forms.gle/MyMBcAjEWsm4ksxA6), até as 23:59 do dia 11
 de abril de 2025.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_QqUcj7sw98s4aLgJ04lDMxFiJ3vZlq3kfLRJK7xxYGrzoA/viewform?embedded=true" width="720" height="1300" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+<!--<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_QqUcj7sw98s4aLgJ04lDMxFiJ3vZlq3kfLRJK7xxYGrzoA/viewform?embedded=true" width="720" height="1300" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>-->
 
+
+# <i class="fas fa-handshake"></i> Entrevistas
+
+Considerando o disposto no **EDITAL DE INGRESSO E REINGRESSO DE MEMBROS - 2025**, o cronograma de seleção precisou ser reajustado. Abaixo, são encontradas a relação de dias e horários para realização das entrevistas. As mesmas serão realizadas de forma remota, na seguinte sala: https://conferenciaweb.rnp.br/ufsc/nepem. A ordem das entrevistas segue a ordem cronológica das inscrições.
+
+## 23/04/2025 - Grupo 1
+
+- ⏰ **19:30** — Kenji da Cruz Konno
+- ⏰ **19:40** — Lalesca Dadam Gomes
+- ⏰ **19:50** — Matheus Lopes Machado
+- ⏰ **20:00** — Emily Scheffer Sabbi
+- ⏰ **20:10** — Isabella Ramos Pedroni Paulo
+- ⏰ **20:20** — Alice Maria Trois
+- ⏰ **20:30** — Holegario Califa Nosoline
+- ⏰ **21:00** — Maria Rosa Hilário
+- ⏰ **21:10** — Madalena de Sousa Manuel
+- ⏰ **21:20** — Maria Fernanda Alves Davanzo
+- ⏰ **21:30** — Daniel Fumio Hada Júnior
+- ⏰ **21:40** — Carlos Eduardo Forcelini Assoni
+- ⏰ **21:50** — Gabriel de Oliveira Machado
+- ⏰ **22:00** — Kamilly
+- ⏰ **22:10** — Bruna Maranhão Cavalcanti Carvalho
+
+## 23/04/2025 - Grupo 2
+
+- ⏰ **19:30** — Lanna Christi dos Santos Costa Cabral
+- ⏰ **19:40** — Ana Clara Rodrigues Silva
+- ⏰ **19:50** — Letícia Ferreira
+- ⏰ **20:00** — Kamilla Gonçalves Dos Santos
+- ⏰ **20:10** — Alanna Pinheiro Fabricante
+- ⏰ **20:20** — Tamara Martins Constantino
+- ⏰ **20:30** — Fausto Henrique Silva Galhardi
+- ⏰ **21:00** — Felipe rosauro
+- ⏰ **21:10** — Luciano dos Santos Cardoso Junior
+- ⏰ **21:20** — Julio Vieira da Rocha
+- ⏰ **21:30** — Luiz Paulo da Silva
+- ⏰ **21:40** — Maria Laura Faustino Monteiro
+- ⏰ **21:50** — Isabela Martins Ghizoni
+- ⏰ **22:00** — Paulo Romero Oliveira Sousa
+- ⏰ **22:10** — Rodrigo da Silva Gomes
