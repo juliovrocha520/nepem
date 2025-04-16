@@ -107,7 +107,7 @@ Considerando o disposto no **EDITAL DE INGRESSO E REINGRESSO DE MEMBROS - 2025**
 - ⏰ **22:00** — Kamilly
 - ⏰ **22:10** — Bruna Maranhão Cavalcanti Carvalho
 
-## 23/04/2025 - Grupo 2
+## 25/04/2025 - Grupo 2
 
 - ⏰ **19:30** — Lanna Christi dos Santos Costa Cabral
 - ⏰ **19:40** — Ana Clara Rodrigues Silva
