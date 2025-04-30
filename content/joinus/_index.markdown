@@ -124,3 +124,35 @@ Considerando o disposto no **EDITAL DE INGRESSO E REINGRESSO DE MEMBROS - 2025**
 - ⏰ **21:50** — Isabela Martins Ghizoni
 - ⏰ **22:00** — Paulo Romero Oliveira Sousa
 - ⏰ **22:10** — Rodrigo da Silva Gomes
+
+
+# <i class="fas fa-list"></i> Resultado Final do Processo Seletivo - NEPEM 2025
+
+Após passadas todas as etapas do processo seletivo e considerando o disposto no [edital de seleção](edital_2025_assinado.pdf), divulgamos abaixo a lista de candidatos aprovados para ingresso no NEPEM (Núcleo de Estudos e Pesquisas em Experimentação e Melhoramento Vegetal) no ano de 2025.
+
+### Candidatos Aprovados (na ordem da inscrição)
+
+| Nº  | Nome do Candidato                         |
+|-----|-------------------------------------------|
+| 1   | Kenji da Cruz Konno                       |
+| 2   | Lalesca Dadam Gomes                       |
+| 3   | Matheus Lopes Machado                     |
+| 4   | Isabella Ramos Pedroni Paulo              |
+| 5   | Alice Maria Trois                         |
+| 6   | Maria Rosa Hilário                        |
+| 7   | Daniel Fumio Hada Júnior                  |
+| 8   | Carlos Eduardo Forcelini Assoni           |
+| 9   | Kamilly Tonet                             |
+| 10  | Letícia Ferreira                          |
+| 11  | Kamilla Gonçalves Dos Santos              |
+| 12  | Tamara Martins Constantino                |
+| 13  | Fausto Henrique Silva Galhardi            |
+| 14  | Felipe Rosauro                            |
+| 15  | Luciano dos Santos Cardoso Junior         |
+| 16  | Julio Vieira da Rocha                     |
+| 17  | Luiz Paulo da Silva                       |
+| 18  | Maria Laura Faustino Monteiro             |
+| 19  | Isabela Martins Ghizoni                   |
+| 20  | Paulo Romero Oliveira Sousa               |
+
+Pedimos que os aprovados fiquem atentos aos próximos passos, que serão comunicados por e-mail. Agradecemos o interesse e o empenho de todos os participantes!
