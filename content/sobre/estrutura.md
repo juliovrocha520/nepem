@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-# Estrutura Oganizacional
+# Estrutura Organizacional
 
 A estrutura organizacional do NEPEM é composta por uma Coordenadoria Geral, uma
 Coordenadoria Científica e Assessorias de Apoio, conforme representado no
