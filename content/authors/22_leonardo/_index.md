@@ -1,6 +1,6 @@
 ---
 role: Leonardo Talavera Campos
-weight: 00
+weight: 14
 email: "leonardo.campos@ifc.edu.br"
 interests:
 - Biostatistics and Experimentation

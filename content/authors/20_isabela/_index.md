@@ -1,6 +1,6 @@
 ---
 role: Isabela Martins Ghizoni
-weight: 9
+weight: 8
 email: "isabelaghizoni@gmail.com"
 interests:
 - Plant Breeding

@@ -1,6 +1,6 @@
 ---
 role: Kenji da Cruz Konno
-weight: 13
+weight: 12
 email: "kenji.c.konno@gmail.com"
 interests:
 - Agricultural Microbiology
