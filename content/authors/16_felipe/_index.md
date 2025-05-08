@@ -1,6 +1,6 @@
 ---
 role: Felipe Rosauro de Matheus Bustamante
-weight: 6
+weight: 7
 email: "feliperbustamante@gmail.com"
 interests:
 - Plant Breeding

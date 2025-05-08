@@ -1,6 +1,6 @@
 ---
 role: Daniel Fumio Hada Júnior
-weight: 4
+weight: 5
 email: "hadanielfu@gmail.com"
 interests:
 - Plant Breeding

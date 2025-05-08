@@ -1,6 +1,6 @@
 ---
 role: Emily Scheffer Sabbi
-weight: 5
+weight: 6
 email: "emilysabbi@hotmail.com"
 interests:
 - Plant Breeding

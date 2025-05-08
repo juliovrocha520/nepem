@@ -1,6 +1,6 @@
 ---
 role: Juliano Silveira Machado
-weight: 10
+weight: 11
 email: "silveiramachado@hotmail.com.br"
 interests:
 - Plant Breeding
