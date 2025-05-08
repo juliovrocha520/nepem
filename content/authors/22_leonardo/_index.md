@@ -7,6 +7,7 @@ interests:
 - High-throughput Phenotyping
 - Plant and Animal Breeding
 - Data Science and Analytics
+
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
@@ -32,7 +33,7 @@ social:
   link: https://youtube.com/@leonardocampos7837?si=GjSQ0EkyPYJzvA4W
 
 user_groups:
-- Estudantes de Pós-Graduação
+- Estudantes de Pós-Doutorado
 ---
 
 Sou Engenheiro Agrônomo formado pela UFRGS, possuindo Doutorado em Ciências na UFPel, curso de Pós-Graduação em Zootecnia, 

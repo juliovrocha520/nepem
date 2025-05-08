@@ -17,6 +17,7 @@ subtitle = ""
                  "Estudantes de Graduação",
                  "Estudantes de Mestrado",
                  "Estudantes de Doutorado",
+                 "Estudantes de Pós-Doutorado",
                  "Ex-alunos"]
 
 [design]
