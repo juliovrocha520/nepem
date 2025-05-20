@@ -43,9 +43,9 @@ jobs:
               exit 1
             fi
 
-            # Verificar se avatar.png existe
-            if [[ ! -f "$dir/avatar.png" ]]; then
-              echo "Erro: O diretório '$dir_name' não contém 'avatar.png'."
+            # Verificar se existe um avatar com extensão válida
+            if [[ ! -f "$dir/avatar.png" && ! -f "$dir/avatar.jpg" && ! -f "$dir/avatar.jpeg" ]]; then
+              echo "Erro: O diretório '$dir_name' não contém um avatar válido (.png, .jpg, .jpeg)."
               exit 1
             fi
           done
