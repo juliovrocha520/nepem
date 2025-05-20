@@ -8,6 +8,10 @@ authors_dir = os.path.join(os.path.dirname(__file__))
 def update_weights():
     # Lista os arquivos
     authors = [f for f in os.listdir(authors_dir) if f.endswith('_index.md')]
+
+    # ignora admin
+    authors = [f for f in authors if f != "admin"]
+
     # Ordena os arquivos alfabeticamente
     authors.sort()
 
